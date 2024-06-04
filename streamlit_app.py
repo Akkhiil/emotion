@@ -5,7 +5,7 @@ import librosa
 import matplotlib.pyplot as plt
 import urllib.request
 
-# Define the emotions dictionary
+#Define the emotions dictionary
 emotions = {1: 'neutral', 2: 'calm', 3: 'happy', 4: 'sad', 5: 'angry', 6: 'fearful', 7: 'disgust', 8: 'surprised'}
 
 # Function to display waveform and image
